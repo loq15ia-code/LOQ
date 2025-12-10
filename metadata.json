@@ -1,0 +1,7 @@
+{
+  "name": "RideGenie",
+  "description": "AI-powered ride hailing assistant. Get to your destination effortlessly with Gemini-powered search.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
